@@ -1,2 +1,2 @@
 # ice-launcher
-Another fivem launcher (full source)
+FiveM - ICE-Launcher fully decrypted plus source (C#)
